@@ -1,19 +1,16 @@
-### Hi there 👋
 
 # 👋 Hi, I'm Gaurav Kumar Soni 
 
 ## I'm a Student, Developer, and Learner!
-###
-- 🔭 I'm currently pursuing B.Tech in Information Technology from National
- Institute Of Technology, Srinagar (https://nitsri.ac.in/). I'm a passionate learner who's 
- always willing to learn and work across technologies and domains. I love to explore new 
- technologies and leverage them to solve real-life problems.
-- 🌱 I’m currently learning Android Development with Kotlin and Data Structures and 
-Algorithms.
-- 👯 I’m looking to collaborate on Android Development Projects.
 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to play guitar.
+
+### - 🔭  I'm currently pursuing B.Tech in Information Technology from National Institute Of Technology, Srinagar (https://nitsri.ac.in/). I'm a passionate learner who's  always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
+
+## - 🌱 I’m currently learning Android Development with Kotlin and Data Structures and Algorithms.
+## - 👯 I’m looking to collaborate on Android Development Projects.
+
+## - 😄 Pronouns: He/His
+## - ⚡ Fun fact: I love to play guitar.
 
 ### connect with me
 

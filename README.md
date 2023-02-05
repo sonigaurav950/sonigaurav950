@@ -1,10 +1,10 @@
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sonigaurav950&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" />
 # 👋 Hi, I'm Gaurav Kumar Soni 
 
 ## I'm a Student, Developer, and Learner!
 
 
-### - 🔭  I'm currently pursuing B.Tech in Information Technology from National Institute Of Technology, Srinagar (https://nitsri.ac.in/). I'm a passionate learner who's  always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
+### - 🔭  I'm currently pursuing B.Tech in Information Technology from National Institute Of Technology, <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonigaurav950&layout=compact&hide_title=true&hide_border=true" /> Srinagar (https://nitsri.ac.in/). I'm a passionate learner who's  always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 
 ### - 🌱 I’m currently learning Android Development with Kotlin and Data Structures and Algorithms.
 ### - 👯 I’m looking to collaborate on Android Development Projects.

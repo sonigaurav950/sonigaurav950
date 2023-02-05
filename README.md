@@ -17,9 +17,9 @@ Algorithms.
 
 ### connect with me
 
-[<img align="left" alt="gauravsoni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gauravsoni | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/gaurav-kumar-soni-a705b7245/]
-[<img align="left" alt="gauravsoni | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />][instagram]
-[<img align="left" alt="gauravsoni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="gauravsoni | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />][facebook]
-[<img align="left" alt="gauravsoni | Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />][sonigaurav950@gmail.com]
+[<img align="left" alt="gauravsoni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]website
+[<img align="left" alt="gauravsoni | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />]https://www.linkedin.com/in/gaurav-kumar-soni-a705b7245/
+[<img align="left" alt="gauravsoni | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />]https://www.instagram.com/gauravsoni3850/
+[<img align="left" alt="gauravsoni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />]https://twitter.com/Gauravs70259657
+[<img align="left" alt="gauravsoni | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />]https://m.facebook.com/profile.php?eav=Afa3-SoqxReofdIJn_uXNuSqU3HCHfXDykEceWsOFavGx-iK3agRZ-Olg2uDYI-jZ1Q&paipv=0
+[<img align="left" alt="gauravsoni | Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />]sonigaurav950@gmail.com

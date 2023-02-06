@@ -1,8 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sonigaurav950&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" />
+<a href="https://github.com/sonigaurav950"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=sonigaurav950&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Leví Arista's GitHub Stats" />
+    </a>
 
  # 👋 Hi,
 
-## I'm a Student, Developer, and Learner! <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonigaurav950&layout=compact&hide_title=true&hide_border=true" />
+## I'm a Student, Developer, and Learner! <a href="https://github.com/sonigaurav950"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonigaurav950&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Leví Arista's GitHub Stats" />
+    </a>
 
 ###  🔭  I'm currently pursuing B.Tech in Information Technology from National Institute Of Technology, Srinagar (https://nitsri.ac.in/). </br> I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 
@@ -25,3 +27,6 @@
  <a href ="https://m.facebook.com/profile.php?eav=Afa3-SoqxReofdIJn_uXNuSqU3HCHfXDykEceWsOFavGx-iK3agRZ-Olg2uDYI-jZ1Q&paipv=0"><img align="left" alt="gauravsoni | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png"/></a>
 
  <a href = "mailto: sonigaurav950@gmail.com"><img align="left" alt="gauravsoni | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/></a>
+ 
+ 
+

@@ -3,12 +3,12 @@
 
 ## I'm a Student, Developer, and Learner! 
 
-###  🔭  I'm currently pursuing B.Tech in Information Technology from National Institute Of Technology, Srinagar (https://nitsri.ac.in/). </br> I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
+#### 🔭  I'm currently pursuing B.Tech in Information Technology from National Institute Of Technology, Srinagar (https://nitsri.ac.in/). </br> I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 
-###  🌱 I’m currently learning Android Development with Kotlin and Data Structures and Algorithms.
-###  👯 I’m looking to collaborate on Android Development Projects.
+####  🌱 I’m currently learning Android Development with Kotlin and Data Structures and Algorithms.
+####  👯 I’m looking to collaborate on Android Development Projects.
 
-###  ⚡ Fun fact: I love to play guitar.<!-- <a href="https://github.com/sonigaurav950"> <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sonigaurav950&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Gaurav's GitHub Stats" /></a> -->
+####  ⚡ Fun fact: I love to play guitar.<!-- <a href="https://github.com/sonigaurav950"> <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sonigaurav950&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Gaurav's GitHub Stats" /></a> -->
 
 ![Gaurav's stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonigaurav950&theme=github_dark)
 <a href="https://github.com/sonigaurav950"> <img align="right"  src="https://github-readme-stats.vercel.app/api?username=sonigaurav950&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Guarav's GitHub Stats" /></a> 

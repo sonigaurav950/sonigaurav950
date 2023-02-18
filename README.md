@@ -8,10 +8,10 @@
 ####  🌱 I’m currently learning Android Development with Kotlin and Data Structures and Algorithms.
 ####  👯 I’m looking to collaborate on Android Development Projects.
 
-####  ⚡ Fun fact: I love to play guitar.<!-- <a href="https://github.com/sonigaurav950"> <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sonigaurav950&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Gaurav's GitHub Stats" /></a> -->
+####  ⚡ Fun fact: I love to play guitar.<!-- <a href="https://github.com/Gaurav-Kumar-Soni"> <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sonigaurav950&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Gaurav's GitHub Stats" /></a> -->
 
-![Gaurav's stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonigaurav950&theme=github_dark)
-<a href="https://github.com/sonigaurav950"> <img align="right"  src="https://github-readme-stats.vercel.app/api?username=sonigaurav950&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Guarav's GitHub Stats" /></a> 
+![Gaurav's stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav-Kumar-Soni&theme=github_dark)
+<a href="https://github.com/sonigaurav950"> <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kumar-Soni&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Guarav's GitHub Stats" /></a> 
 </br>
 
 <div align = 'center'>

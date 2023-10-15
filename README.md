@@ -36,11 +36,11 @@
 
  <a href ="https://gauravsoni.com/"><img align="left" alt="gauravsoni.com" width="22px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 
- <a href ="https://www.linkedin.com/in/gaurav-kumar-soni-a705b7245/"><img align="left" alt="gauravsoni | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+ <a href ="https://www.linkedin.com/in/gaurav-kumar-soni-a705b7245/"><img align="left" alt="gauravsoni | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" /></a>
 
  <a href ="https://www.instagram.com/gauravsoni3850/ "><img align="left" alt="gauravsoni | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
  
- <a href ="https://twitter.com/Gauravs70259657"><img align="left" alt="gauravsoni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/></a>
+ <a href ="https://twitter.com/Gauravs70259657"><img align="left" alt="gauravsoni | Twitter" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg"/></a>
  
  <a href ="https://m.facebook.com/profile.php?eav=Afa3-SoqxReofdIJn_uXNuSqU3HCHfXDykEceWsOFavGx-iK3agRZ-Olg2uDYI-jZ1Q&paipv=0"><img align="left" alt="gauravsoni | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png"/></a>
 

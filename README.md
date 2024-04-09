@@ -5,9 +5,9 @@
 
 ____🔭  I'm currently pursuing B.Tech in Information Technology from National Institute Of Technology, Srinagar (https://nitsri.ac.in/).____ </br> I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 
-____🌱 I’m currently learning Android Development with Kotlin, Data Structures and Algorithms.____
+____🌱 I’m currently learning Machine learning, Deep Learning, Data Structures and Algorithms.____
 
-____👯 I’m looking to collaborate on Android Development Projects.____
+____👯 I’m looking to collaborate on AI Projects.____
 
 ____⚡ Fun fact: I love to play guitar.____<!-- <a href="https://github.com/Gaurav-Kumar-Soni"> <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sonigaurav950&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Gaurav's GitHub Stats" /></a> -->
 
